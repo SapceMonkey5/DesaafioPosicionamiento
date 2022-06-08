@@ -1,0 +1,109 @@
+* {
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    margin: 0px;
+   
+   
+}
+
+header {
+    text-align: center;
+    padding: 7px;  
+    font-size: 56px; 
+    
+}
+
+main{
+display: flow-root;
+}
+
+main img{
+    float: right;
+    width: 450px;
+    margin-right: 232px;
+    margin-bottom: 26px;
+    margin-top: -209px;
+    height: 283px;
+    
+}
+
+p{
+    
+    width: 567px;
+    padding: 10px;
+    display: inline-block;
+    margin-left: 55px;
+    height: 56px;
+    margin-top: 30px;
+}
+
+.features {
+    
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    background-color: #1E1A13;
+    height: 376px;
+   
+}
+.features2 {
+    
+    font-size: 35px;
+    background-color: #1E1A13;
+    margin-right: 600px;
+    margin-left: 350px;
+   
+}
+.feature {
+    width: 33%;
+    padding-top: 61px;
+    display: inline-block;
+    background-color: #1E1A13;
+    
+
+}
+.feature i{
+    display:inline-block;
+    font-size: 50px;
+    background-color: #1E1A13;
+
+}
+.feature p{
+    font-size: 20px;
+    background-color: #1E1A13;
+    margin-left: -77px;
+
+}
+.photos{
+    padding: 73px;
+    padding-left: 230px;
+
+}    
+.photos .p1{
+    width: 280px;
+    height: 180px;
+    padding-right: 12px;
+
+}
+.photos .p2{
+    width: 280px;
+    height: 180px;
+}
+.photos .p3{
+    width: 280px;
+    height: 180px;
+    padding-left: 12px;
+
+}
+
+.photos img{
+    width: 33%;
+
+}
+.footer{
+    text-align: center;
+    padding: 37px;
+    color:white;
+    background-color: #1E1A13;
+    font-size: 1rem;
+}
